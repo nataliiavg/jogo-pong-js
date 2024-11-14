@@ -10,7 +10,8 @@ O que aprendi:
 - Personalização do design do jogo, incluindo fundo, raquetes e bolinha; ✔️
 - Aplicação do Text-to-Speech (TTS) no projeto para narrar a pontuação da partida no jogo. ✔️
 
-## Imagem do Joguinho:
+## Gif do Joguinho:
 
-![image](https://github.com/user-attachments/assets/2dded60a-0f20-4f43-ac59-c0c4ff551046)
+![image](https://raw.githubusercontent.com/nataliiavg/jogo-pong-js/refs/heads/main/Jogo_Pong.gif)
+
 
